@@ -1,0 +1,13 @@
+{
+  "name": "promise-it-wont-hurt",
+  "version": "1.0.0",
+  "description": "NodeSchool Promise It Wont Hurt Course",
+  "main": "echo \"Error: no main specified\" && exit 1",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick DO",
+  "license": "ISC"
+}
